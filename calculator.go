@@ -114,14 +114,11 @@ func divide (a int, b int) int{
 	return sum
 }
 
-/*
-pass in 2 as a first example and then 2 as second example can you make 4.
-http:localhost:8080/2/2
-4
-http:localhost:8080/4/2
-6
-*/
 
-/*handle errors and floats, google url parsing, write tests to make sure operations
-performing correctly.  Figure out how to take data from the browser and use that in code. More operations e.g.
-to the power of.*/
+/*To Do
+handle errors and floats,
+url parsing,
+write tests to make sure operations
+performing correctly.
+Take data from browser to function.
+More operations e.g.to the power of.*/
